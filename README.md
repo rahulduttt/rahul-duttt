@@ -40,7 +40,7 @@ A fullstack Software Engineer from Fiji with a demonstrated history of working i
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulduttt)](https://github.com/rahulduttt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulduttt&hide_border=true)](https://github.com/rahulduttt/github-readme-stats)
 
 [website]: https://portfolio.rahuldutt.dev
 [twitter]: https://twitter.com/_rahuldutt
