@@ -4,7 +4,7 @@ A fullstack Software Engineer from Fiji with a demonstrated history of working i
 <br>
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rahul.d92&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rahul.d92&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
